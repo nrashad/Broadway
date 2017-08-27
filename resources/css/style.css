@@ -1,0 +1,14 @@
+.title{
+  background-image: url(./images/flatiron);
+}
+#heading1{
+  font-family: Helvetica;
+  font-size:70px;
+  font-weight: bold;
+  color:white;
+}
+.title h4{
+  font-family: Helvetica;
+  font-size: 18px;
+  color:white;
+}
